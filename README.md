@@ -1,10 +1,5 @@
 # Meals To Go
-
-| Build        | Branch         |
-| ------------- |:-------------:|
-| Full Build      | [master](https://github.com/mobinni/MealsToGo) |
-| Full Mock Build      | [full-mock](https://github.com/mobinni/MealsToGo/tree/full-mock)      |
-| Full Mock Build With Polish      | [full-mock-with-polish](https://github.com/mobinni/MealsToGo/tree/full-mock-with-polish)      |
+https://expo.dev/@buihdk/MealsToGo?serviceType=classic&distribution=expo-go
 
 ### Setting up full build
 
