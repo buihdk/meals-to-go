@@ -10,7 +10,7 @@ import { CheckoutSuccessScreen } from "../../features/checkout/screens/checkout-
 
 export const CheckoutNavigator = () => (
   <CheckoutStack.Navigator headerMode="none">
-    <CheckoutStack.Screen name="Checkout" component={CheckoutScreen} />
+    <CheckoutStack.Screen name="CheckoutDetail" component={CheckoutScreen} />
     <CheckoutStack.Screen
       name="CheckoutSuccess"
       component={CheckoutSuccessScreen}
